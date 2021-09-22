@@ -6,7 +6,7 @@
 A Completed C program to clearly show the step by step output of the Algorithm traversing and backtracking across the Maze.
 
 ### flow of the project:
-
+ 
 ![image](https://user-images.githubusercontent.com/44108897/134330009-e72ccef2-19e7-4f2a-b385-fb3406612c56.png)
 
 ## Resources and Dependencies
@@ -16,7 +16,7 @@ A Completed C program to clearly show the step by step output of the Algorithm t
 
 ##Implementation:
 
-###Maze Text File
+### Maze Text File
 ![image](https://user-images.githubusercontent.com/44108897/134330320-5309487d-8e97-4fd9-bae5-753ab2da259d.png)
 ### Starting the program:
 ![image](https://user-images.githubusercontent.com/44108897/134330465-30293bc0-a5a2-43f4-8e7a-7766290f5694.png)
