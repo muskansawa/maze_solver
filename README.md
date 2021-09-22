@@ -36,7 +36,7 @@ A Completed C program to clearly show the step by step output of the Algorithm t
 ![image](https://user-images.githubusercontent.com/44108897/134331530-d7f58912-c988-4cd3-8af0-979675b8500d.png)
 
 
-### What did I learn :
+## What did I learn :
 I learnt how recursion and backtracking can be used implement various functions useful in automation in day to day life.
 I also learnt different types of algorithm which can be used in  different scenarios and got to implement some of them.
 I made a live apllication in command line so learnt a lot from the experience and also got to know how we can use these algorithms in real life scenarios for example a robot cleaner or a robot in a department store etc.
